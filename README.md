@@ -11,7 +11,7 @@ CSV file example:
 ```
 all data of the file should be in either Calorie or Kilojoule.
 
-# communication contract
+# Communication Contract
 ## how to REQUEST data
 1. put the data CSV file into the same directory of the Calculator program
 2. run the program
